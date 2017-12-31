@@ -1,2 +1,6 @@
 mechon-mamre
 sefaria
+.idea
+.gradle
+*.iml
+/out
