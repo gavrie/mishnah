@@ -3,7 +3,6 @@ import com.fasterxml.jackson.annotation.JsonProperty
 import com.fasterxml.jackson.module.kotlin.jacksonObjectMapper
 import com.fasterxml.jackson.module.kotlin.readValue
 import java.io.File
-import java.nio.file.Paths
 
 @JsonIgnoreProperties(ignoreUnknown = true)
 data class Tractate(
